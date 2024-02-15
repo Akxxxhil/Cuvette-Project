@@ -1,0 +1,59 @@
+.upper{
+    width: 900px;
+    height: 450pxpx;
+    border: 2px solid black;
+   margin: 50px;
+   background-color:  #FFCD9E;
+   display: flex;
+}
+.lower{
+    width: 900px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 50px;
+    margin-top: -52px;
+    background-color: #282828;
+    color: #FFFFFF;
+    font-family: Inter;
+    line-height: 32px;
+    font-size: 20px;
+    display: flex;
+}
+ul{
+    list-style: none;
+}
+.right-lower{
+    margin-left: 401px;
+    
+}
+.Register-Now{
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    padding: 10px;
+}
+.e-mail-adress{
+    padding: 10px;
+    border-radius: 6px;
+}
+.lower-image{
+    display: flex;
+}
+.main-Heading{
+    margin: 40px;
+}
+.main-para{
+    margin: 40px;
+}
+.sub-heading{
+    margin: 40px;
+}
+.login-details{
+    margin: 40px;
+}
+.extra-details{
+    margin: 40px;
+    color: white;
+    font-size: 12px;
+    margin-top: -30px;
+}
