@@ -1,3 +1,6 @@
+body{
+    font-family: "Inter", sans-serif;
+}
 .upper{
     width: 900px;
     height: 450pxpx;
@@ -16,14 +19,16 @@
     color: #FFFFFF;
     font-family: Inter;
     line-height: 32px;
-    font-size: 20px;
+    font-size: 15px;
     display: flex;
+    justify-content: space-around;
+    line-height: 30px;
 }
 ul{
     list-style: none;
 }
 .right-lower{
-    margin-left: 401px;
+    text-align: right;
     
 }
 .Register-Now{
@@ -54,6 +59,7 @@ ul{
 .extra-details{
     margin: 40px;
     color: white;
-    font-size: 12px;
+    font-size: 10px;
     margin-top: -30px;
+    margin-left: 60px;
 }
