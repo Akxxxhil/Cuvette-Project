@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #6f6af7;
+  color: white;
+  padding: 5px;
+  position: fixed;
+  width: 100%;
+}
+#DAPPR {
+  font-size: 40px;
+}
+.navbar-info {
+  font-size: 25px;
+}
+.input {
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 100px;
+  padding: 1px;
+}
+
+/* first-section */
+#textarea1 {
+  background-color: #e5d8ff;
+}
+.first-section {
+  display: flex;
+}
+
+/* card-section  */
+.card-section {
+  display: flex;
+}
+.cards {
+  border: 2px solid white;
+  border-radius: 4px;
+  width: 120px;
+  height: 60px;
+  margin: 15px;
+  padding: 16px;
+}
+#card4 {
+  background-color: black;
+  color: white;
+}
+#card3 {
+  background-color: #d288ff;
+  color: white;
+}
+#card2 {
+  background-color: #734cf2;
+  color: white;
+}
+#card1 {
+  background-color: #929dff;
+  color: white;
+}
+
+/* final-selection  */
+
+.final {
+  border: 2px solid black;
+  width: 900px;
+  height: 400px;
+  margin: 10px;
+  background-color: #483eff;
+
+}
+.left {
+  border: 2px solid white;
+  border-radius: 6px;
+  width: 220px;
+  height: 60px;
+  margin: 10px;
+ 
+}
+#your-info {
+  background-color: #bce0f6;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  
+}
+#bookmarks{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#settings{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
